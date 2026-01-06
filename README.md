@@ -48,7 +48,7 @@
 
 ```bash
 # Clona el repositorio
-git clone [https://github.com/dtarrifa09/CoE-Desarrollo.git](https://github.com/dtarrifa09/CoE-Desarrollo.git)
+git clone https://github.com/dtarrifa09/CoE-Desarrollo.git
 
 # Entra en la carpeta del proyecto
 cd nombre-de-tu-proyecto
