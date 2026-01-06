@@ -1,0 +1,3 @@
+INSERT INTO cursos (nombre, descripcion, modulo, imagen_insignia) VALUES ('Angular Básico', 'Aprende componentes y rutas', 'Fullstack', 'insignia_angular.png');
+INSERT INTO cursos (nombre, descripcion, modulo, imagen_insignia) VALUES ('Spring Boot Pro', 'APIs REST con Java 21', 'APIs e Integraciones', 'insignia_java.png');
+INSERT INTO cursos (nombre, descripcion, modulo, imagen_insignia) VALUES ('Introducción a AWS', 'Conceptos básicos de la nube', 'Cloud', 'insignia_cloud.png');
